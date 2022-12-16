@@ -2,7 +2,7 @@
 name = "ood_project"
 version = "0.1.0"
 description = ""
-authors = ["Michael Lebacher <michael.lebacher@siemens.com>"]
+authors = ["Michael Lebacher <michael.lebacher@gmx.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.9.*"
